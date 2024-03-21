@@ -68,7 +68,7 @@ int main (){
                 cout << "Enter value" << endl;
                 cin >> value;
                 Box b2(value);
-                b2.calculateVolume();; 
+                b2.calculateVolume(); 
             }
             break;
             case 3:
